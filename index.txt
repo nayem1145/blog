@@ -1,0 +1,653 @@
+<div class="blog-single-area bg-white rounded">
+    <div class="bs-blog-meta d-flex align-items-center justify-content-between">
+        <a href="#" class="btn-meta fw-bold">Automotive News</a>
+        <span class="date">May 24, 2022</span>
+    </div>
+    <h3 class="blog-title mt-3">How long does it take to order a rent car?</h3>
+    <div class="bs-blog-thumb position-relative mt-40 mb-4">
+        <span class="btn-meta text-primary bg-white position-absolute z-2"><span class="me-1"><i class="fas fa-heart"></i></span>Likes</span>
+        <img src="{{roots}}assets/img/blog/blog-list-1.jpg" alt="not found" class="img-fluid">
+    </div>
+    <p>Professionally build unique markets via parallel total linkage. Monotonectally maximize corporate intellectual capital whereas granular catalysts for change. Assertively provide access to inexpensive technologies whereas virtual platforms.No one rejects, dislikes, or avoids pleasure itself, because it is pleasure but because those who do not know how to pursue pleasure on the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain these cases are perfectly Ipsum dolor feugiat est tristique.</p>
+    <div class="bs-video-content position-relative mt-40">
+        <img src="{{roots}}assets/img/blog/blog-list-2.jpg" alt="not found" class="img-fluid">
+        <a href="#" class="video-popup-btn text-white bg-primary position-absolute start-50 top-50 translate-middle"><i class="fas fa-play"></i></a>
+    </div>
+    <h4 class="mt-40 mb-3">Detailing Basics</h4>
+    <p>Professionally build unique markets via parallel total linkage. Monotonectally maximize corporate intellectual capital whereas granular catalysts for change. Assertively provide access to inexpensive technologies whereas virtual platforms.No one rejects, dislikes.</p>
+    <blockquote class="mt-40 position-relative bs-blockquote rounded">
+        <p> Holisticly aggregate installed base models vis-a-vis market-driven leadership skills. Appropriate matrix maintainable relationships whereas long-term high-impact core competencies. Progress reinvent performance based "outside the box" thinking before progressive outsourcing. Monotonectally customize user-centric schemas for pandemic niches.</p>
+        <h6 class="mb-0">-Timothy S.Nale</h6>
+        <span class="quote-icon position-absolute">
+            <svg width="48" height="39" viewBox="0 0 48 39" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M32 20.5263L43.78 20.5263C43.4083 23.0668 42.5244 25.4997 41.1848 27.6698C39.8452 29.8399 38.0793 31.6994 36 33.1295L32.42 35.5926L34.62 39L38.2 36.5368C41.2134 34.4758 43.6846 31.6833 45.3941 28.4069C47.1037 25.1306 47.9988 21.4718 48 17.7553L48 4.10527C48 3.01648 47.5786 1.97229 46.8284 1.20241C46.0783 0.432522 45.0609 3.55775e-06 44 3.46501e-06L32 2.41593e-06C30.9391 2.32319e-06 29.9217 0.43252 29.1716 1.20241C28.4214 1.97229 28 3.01648 28 4.10526L28 16.4211C28 17.5098 28.4214 18.554 29.1716 19.3239C29.9217 20.0938 30.9391 20.5263 32 20.5263ZM4 20.5263L15.78 20.5263C15.4083 23.0668 14.5244 25.4997 13.1848 27.6698C11.8452 29.8399 10.0793 31.6994 8 33.1295L4.41999 35.5926L6.59999 39L10.2 36.5368C13.2134 34.4758 15.6846 31.6833 17.3941 28.4069C19.1037 25.1306 19.9988 21.4718 20 17.7553L20 4.10526C20 3.01648 19.5786 1.97229 18.8284 1.20241C18.0783 0.432519 17.0609 1.10991e-06 16 1.01717e-06L4 -3.19052e-08C2.93913 -1.24649e-07 1.92172 0.432518 1.17157 1.2024C0.421424 1.97229 -4.48362e-06 3.01648 -4.5788e-06 4.10526L-5.65548e-06 16.4211C-5.75066e-06 17.5098 0.421423 18.554 1.17157 19.3239C1.92172 20.0938 2.93913 20.5263 4 20.5263Z" fill="#E4E4E4"/>
+            </svg>
+        </span>
+    </blockquote>
+    <h4 class="mt-40">Average costs, Time</h4>
+    <p class="mt-4">Collaboratively parallel task leading-edge niches for ubiquitous growth strategies. Dramatically facilitate cross-media initiatives for customer directed portals. Holisticly strategize highly efficient infrastructures via distinctive resources. Intrinsicly plagiarize high standards in expertise without next-generation niches. Dynamically evisculate 2.0 data vis-a-vis high-payoff ideas.</p>
+    <p>Credibly synthesize fully tested initiatives rather than client-focused human capital. Completely reconceptualize strategic potentialities without optimal networks. Proactively transform client-centric strategic theme areas via maintainable leadership. Holisticly.</p>
+    <h4 class="mt-5">Why Investors are looking towards Automobiles?</h4>
+    <p>Energistically conceptualize 24/7 paradigms without fully tested processes. Seamlessly create mission-critical catalysts for change with intermandated supply chains. </p>
+    <div class="bs-gallery mt-4 mb-40">
+        <div class="row g-4">
+            <div class="col-6">
+                <div class="bs-gallery-img">
+                    <img src="{{roots}}assets/img/blog/gallery-1.jpg" alt="not found" class="img-fluid rounded">
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="bs-gallery-img">
+                    <img src="{{roots}}assets/img/blog/gallery-2.jpg" alt="not found" class="img-fluid rounded">
+                </div>
+            </div>
+        </div>
+    </div>
+    <h5 class="mb-20">Our charity causes includes:</h5>
+    <ul class="mb-4">
+        <li><span class="me-3"><i class="fa-solid fa-check"></i></span>An effort made for the happiness of others</li>
+        <li><span class="me-3"><i class="fa-solid fa-check"></i></span>Doing nothing for others is the undoing of ourselves</li>
+        <li><span class="me-3"><i class="fa-solid fa-check"></i></span>It is more agreeable to have the power to give than receive</li>
+    </ul>
+    <p>Distinctively customize holistic information whereas multidisciplinary process improvements. Proactively facilitate long-term high-impact partnerships through resource maximizing meta-services. Dynamically predominate standardized infomediaries vis-a-vis covalent total linkage. Credibly deploy functionalized.</p>
+    <hr class="mt-40 mb-40">
+    <div class="tags-social d-flex align-items-center justify-content-between flex-wrap">
+        <div class="tags-list">
+            <span class="title text-secondary fw-bold me-2">Tags:</span>
+            <a href="#">Car Dealership</a>
+            <a href="#">Breaks Discs</a>
+            <a href="#">Car Shop</a>
+        </div>
+        <div class="bs_social_share">
+            <a href="#"><i class="fab fa-facebook-f"></i></a>
+            <a href="#"><i class="fab fa-linkedin-in"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-behance"></i></a>
+        </div>
+    </div>
+    <div class="bs-author-box mt-40 d-sm-flex align-items-center rounded">
+        <img src="{{roots}}assets/img/author/author-lg.jpg" alt="author" class="rounded-circle flex-shrink-0">
+        <div class="author-box-content ms-sm-4 mt-4 mt-sm-0">
+            <h6 class="mb-1">Kristin Watsons</h6>
+            <a href="https://themetags.com" class="text-primary fw-semibold">visit: themtags.com</a>
+            <p class="mt-2 mb-3">Progressively transition integrated content whereas efficient  Objectively restore intermandated value without optimal relationships.</p>
+            <div class="bs-author-socials">
+                <a href="#" class="facebook"><i class="fab fa-facebook-f"></i></a>
+                <a href="#" class="twitter"><i class="fab fa-twitter"></i></a>
+                <a href="#" class="instagram"><i class="fab fa-instagram"></i></a>
+            </div>
+        </div>
+    </div>
+    <div class="bs-post-controls mt-40">
+        <div class="row align-items-center g-4 g-xxl-5">
+            <div class="col-lg-6">
+                <div class="post-prev d-sm-flex bs-post-item">
+                    <div class="post-prev-left flex-shrink-0">
+                        <a href="#" class="post-control"><span class="me-1"><i class="fas fa-angle-left"></i></span>Prev Post</a>
+                        <div class="feature-img">
+                            <a href="#"><img src="{{roots}}assets/img/blog/recent-post-1.jpg" alt="not found" class="rounded"></a>
+                        </div>
+                    </div>
+                    <div class="post-prev-right ms-sm-3 mt-3 mt-sm-0 align-self-end">
+                        <a href="#" class="bs-title d-block fw-bold">1989 porsche 944 S2 is our bring trailer pick of the day</a>
+                        <span class="date">21 Jun 2022</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="post-next d-flex flex-column flex-sm-row bs-post-item justify-content-end">
+                    <div class="post-prev-left me-sm-3 mt-3 mt-sm-0 align-self-end text-end order-2 order-sm-1">
+                        <a href="#" class="bs-title d-block fw-bold">How to watch the 2022 pike speak hill climb </a>
+                        <span class="date">21 Jun 2022</span>
+                    </div>
+                    <div class="post-prev-right text-end order-1 order-sm-2">
+                        <a href="#" class="post-control">Next Post<span class="ms-1"><i class="fas fa-angle-right"></i></span></a>
+                        <div class="feature-img">
+                            <a href="#"><img src="{{roots}}assets/img/blog/recent-post-2.jpg" alt="not found" class="rounded"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr class="mt-40 mb-40">
+    <h4>Comments(02)</h4>
+    <ul class="comments_list mt-40">
+        <li class="d-sm-flex">
+            <div class="thumbnail flex-shrink-0">
+                <img src="{{roots}}assets/img/author/cm-user-1.jpg" alt="user" class="img-fluid rounded-circle">
+            </div>
+            <span class="date text-primary">05.03.2021[11.00am]</span>
+            <div class="comments_content ms-sm-4 mt-4 mt-sm-0">
+                <h6 class="mb-3">Randy K. Melton</h6>
+                <p>Distinctively customize holistic information whereas multidisciplinary process improve. services. Dynamically predominate standardized. </p>
+                <a href="#" class="reply-btn"><span class="me-1"><i class="fa-solid fa-reply"></i></span>Reply</a>
+            </div>
+        </li>
+        <li class="d-sm-flex ms-5">
+            <div class="thumbnail flex-shrink-0">
+                <img src="{{roots}}assets/img/author/cm-user-2.jpg" alt="user" class="img-fluid rounded-circle">
+            </div>
+            <span class="date text-primary">05.03.2021[11.00am]</span>
+            <div class="comments_content ms-sm-4 mt-4 mt-sm-0">
+                <h6 class="mb-3">Randy K. Melton</h6>
+                <p>Distinctively customize holistic information whereas multidisciplinary process improve. services. Dynamically predominate standardized. </p>
+                <a href="#" class="reply-btn"><span class="me-1"><i class="fa-solid fa-reply"></i></span>Reply</a>
+            </div>
+        </li>
+    </ul>
+    <hr class="mt-40 mb-40">
+    <div class="comment_form_wrapper">
+        <h4>Leave a Comments</h4>
+        <p class="mb-30">Your email address will not be published. Required fields are marked*</p>
+        <form action="#" class="comment_form">
+            <div class="row g-3">
+                <div class="col-sm-6">
+                    <div class="input-field">
+                        <input type="text" placeholder="Name">
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="input-field">
+                        <input type="email" placeholder="Email">
+                    </div>
+                </div>
+                <div class="col-sm-12">
+                    <div class="input-field">
+                        <input type="url" placeholder="Website">
+                    </div>
+                </div>
+                <div class="col-sm-12">
+                    <div class="input-field">
+                        <textarea placeholder="Paste Here" rows="5"></textarea>
+                    </div>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary mt-30">Post Comment</button>
+        </form>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.template-pagination {
+    ul {
+        gap: 8px;
+        li {
+            a {
+                display: inline-flex; 
+                align-items: center;
+                justify-content: center;
+                width: 35px; 
+                height: 35px;
+                color: $para-text-2;
+                font-weight: 600;
+                border-radius: 3px;
+                background: rgba($placeholder-color, 0.5);
+                transition: $transition;
+                &:hover {
+                    background: $primary; 
+                    color: $white;
+                }
+                &.active {
+                    background: $primary; 
+                    color: $white;
+                }
+            }
+        }
+    }
+    &.pg-style-2 {
+        ul {
+            li {
+                a {
+                    background-color: $white; 
+                    color: $secondary; 
+                    &:hover {
+                        background: $primary;
+                        color: $white;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.widget-padding {
+    padding: 40px 24px;
+}
+.tmg-search-widget {
+    form {
+        border: 1px solid $border-color;
+        border-radius: 4px;
+        overflow: hidden;
+        input[type="text"] {
+            width: 90%;
+            color: $secondary;
+            &::placeholder {
+                color: $para-text-2;
+            }
+        }
+        button {
+            border-radius: 0 3px 3px 0;
+            width: 56px; 
+            padding-right: 0; 
+            padding-left: 0;
+            &:hover {
+                &::before {
+                    left: -30px;
+                }
+            }
+        }
+    }
+}
+.sidebar-widget {
+    .widget-top {
+        gap: 20px;
+        .spacer {
+            display: block;
+            width: 100%;
+            height: 2px; 
+            background: rgba($border-color, 0.005);
+            position: relative; 
+            transform: translateY(-4px);
+            &::before {
+                content: ''; 
+                position: absolute; 
+                left: 0; 
+                top: 0; 
+                width: 45px; 
+                height: 2px; 
+                background: $primary;
+            }
+        }
+    }
+}
+.widget-nav {
+    li {
+        + li {
+            margin-top: 30px; 
+            position: relative; 
+            &::before {
+                content: ''; 
+                position: absolute; 
+                left: 0; 
+                top: -15px; 
+                width: 100%; 
+                height: 1px; 
+                background: $border-color;
+                opacity: 0.5;
+            }
+        }
+        a {
+            display: block;
+            color: $para-text-2; 
+            font-weight: 500;
+            transition: $transition; 
+            &:hover {
+                color: $primary;
+            }
+        }
+    }
+}
+.recent_posts_list {
+    li {
+        + li {
+            margin-top: 30px;
+            position: relative; 
+            &::before {
+                content: ''; 
+                position: absolute; 
+                left: 0; 
+                top: -15px; 
+                width: 100%; 
+                height: 1px; 
+                background: $border-color;
+                opacity: 0.5;
+            }
+        }
+        .thumb-wrapper {
+            width: 100px;
+            flex-shrink: 0;
+            border-radius: 4px;
+            overflow: hidden;
+            img {
+                transition: $transition;
+                &:hover {
+                    transform: scale(1.1);
+                }
+            }
+        }
+        .rp_content {
+            margin-left: 20px;
+            a {
+                display: block;
+                color: $para-text-2; 
+                font-weight: 700;
+                transition: $transition; 
+                &:hover {
+                    color: $secondary;
+                }
+            }
+            .date {
+                font-size: 14px;
+                font-weight: 500;
+            }
+        }
+    }
+}
+.tags-list {
+    display: flex; 
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    a {
+        padding: 6px 14px; 
+        border: 1px solid $border-color; 
+        border-radius: 3px;
+        display: inline-block;
+        font-size: 14px; 
+        font-weight: 500; 
+        color: $para-text-2; 
+        transition: $transition; 
+        &:hover {
+            color: $white; 
+            background: $primary; 
+            border-color: $primary;
+        }
+    }
+}
+.subscribe-widget {
+    .sb-top {
+        padding: 70px 30px 45px 30px;
+        background-repeat: no-repeat; 
+        background-size: cover;
+    }
+    .has-overlay {
+        position: relative;
+        z-index: 1;
+        &::before {
+            content: ''; 
+            position: absolute;
+            left: 0; 
+            top: 0;
+            width: 100%; 
+            height: 100%;
+            background: rgba($black-color, 0.5);
+            z-index: -1;
+        }
+    }
+    .widget-padding {
+        p {
+            color: $placeholder-color;
+        }
+    }
+}
+
+
+/***************** blog single **************/ 
+.blog-single-area {
+    padding: 40px 30px 60px;
+}
+.bs-blog-meta {
+    .date {
+        font-size: 14px; 
+        font-weight: 500;
+    }
+}
+.bs-blog-thumb {
+    .btn-meta {
+        top: 16px; 
+        left: 16px;
+    }
+}
+
+.bs-blockquote {
+    background: $bg-color;
+    padding: 40px 32px;
+    p {
+        font-weight: 500;
+    }
+    .quote-icon {
+        right: 30px; 
+        bottom: 24px;
+    }
+}
+.tags-social {
+    gap: 24px;
+}
+
+.bs_social_share {
+    a {
+        width: 35px; 
+        height: 35px; 
+        display: inline-flex; 
+        align-items: center; 
+        justify-content: center;
+        border: 1px solid $border-color;
+        border-radius: 50%; 
+        color: $para-text-2;
+        transition: $transition; 
+        &:hover {
+            color: $white; 
+            background: $primary; 
+            border-color: $primary;
+        }
+        + a {
+            margin-left: 5px;
+        }
+    }
+}
+.bs-author-box {
+    background: $bg-color;
+    padding: 40px;
+    .author-box-content {
+        & > a {
+            text-decoration: underline;
+        }
+        .bs-author-socials {
+            a {
+                width: 35px; 
+                height: 35px; 
+                display: inline-flex;
+                align-items: center; 
+                justify-content: center;
+                margin-right: 5px;
+                border-radius: 50%;
+                color: $facebook;
+                border: 1px solid $facebook;
+                &.instagram {
+                    border-color: $instagram; 
+                    color: $instagram;
+                }
+                &.twitter {
+                    border-color: $twitter;
+                    color: $twitter;
+                }
+            }
+        }
+    }
+    @include portrait-phone {
+        padding: 30px 24px;
+    }
+}
+
+.bs-post-item {
+    .post-control {
+        font-size: 14px;
+        color: $secondary;
+        font-weight: 600;
+        transition: $transition; 
+        &:hover {
+            color: $primary;
+        }
+    }
+    .bs-title {
+        transition: $transition; 
+        color: $para-text-2;
+        &:hover {
+            color: $primary;
+        }
+    }
+    .date {
+        font-size: 14px; 
+        font-weight: 500;
+    }
+}
+
+.comments_list {
+    li {
+        position: relative;
+        .date {
+            position: absolute;
+            right: 0; 
+            top: 0;
+            font-size: 12px; 
+            font-weight: 500;
+        }
+        .reply-btn {
+            color: $headings-color; 
+            transition: $transition; 
+            &:hover {
+                color: $primary;
+            }
+        }
+        + li {
+            margin-top: 60px;
+            position: relative; 
+            &::before {
+                content: ''; 
+                position: absolute; 
+                top: -30px;
+                left: 0; 
+                width: 100%;
+                height: 1px; 
+                background: $border-color;
+            }
+        }
+    }
+}
+
+.comment_form {
+    .input-field {
+        input, textarea {
+            border: 1px solid $border-color;
+            width: 100%;
+            border-radius: 3px;
+            color: $para-text-2;
+            background: rgba($bg-color, 0.2);
+            padding: 14px 18px;
+            &::placeholder {
+                color: $para-text-2;
+            }
+        }
+    }
+}
+
+/****************** blog grid *****************/  
+.blog-grid-slider {
+    .swiper-pagination {
+        bottom: 45px;
+        .swiper-pagination-bullet {
+            &::before {
+                background: $secondary;
+            }
+        }
+        @include small-screen {
+            bottom: 18px;
+        }
+    }
+}
+.bgr-slide-card {
+    padding: 24px;
+    .blog-badge {
+        right: 40px;
+        top: 0;
+    }
+    .feature-img {
+        max-width: 500px;
+        border-radius: 4px; 
+        overflow: hidden;
+        img {
+            transition: $transition;
+            &:hover {
+                transform: scale(1.05);
+            }
+        }
+    }
+    h3 {
+        transition: $transition; 
+        &:hover {
+            color: $primary;
+        }
+    }
+    @include large-screen {
+        .feature-img {
+            max-width: 100%;
+        }
+    }
+}
+
